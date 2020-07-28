@@ -1,5 +1,3 @@
-### Test
-
 <img src="https://github.com/mimzivvimzi/mimzivvimzi/blob/master/readme_image.png">
 
 <!--
