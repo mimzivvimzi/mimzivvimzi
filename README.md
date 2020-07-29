@@ -1,4 +1,4 @@
-<img src="https://github.com/mimzivvimzi/mimzivvimzi/blob/master/readme_image.png">
+<img src="https://github.com/mimzivvimzi/mimzivvimzi/blob/master/readme_image2.png">
 
 <!--
 **mimzivvimzi/mimzivvimzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
