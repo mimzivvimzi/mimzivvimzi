@@ -1,6 +1,6 @@
 <img src="https://github.com/mimzivvimzi/mimzivvimzi/blob/master/readme_image2.png">
 
-## Hi there!👋🏼
+## Hi there! 👋🏼
 
 I'm an iOS developer based in Tokyo.  In my previous life, I worked as a Business Analyst in my home state of Hawaii.  I'm passionate about learning new technologies and expanding my knowledge on app development.  I learned iOS development from  <a href="https://codetechniq.com/" target="_blank">CodeTechniq</a> and through rigorous self-studying.
 
