@@ -4,9 +4,11 @@
 
 I'm an iOS developer based in Tokyo.  In my previous life, I worked as a Business Analyst in my home state of Hawaii.  I'm passionate about learning new technologies and expanding my knowledge on app development.  I learned iOS development from  <a href="https://codetechniq.com/" target="_blank">CodeTechniq</a> and through rigorous self-studying.
 
-<a href="https://www.linkedin.com/in/michelledeniselau/" target="_blank">LinkedIn</a> <br />
-<a href="https://www.michelledeniselau.com/" target="_blank">Portfolio</a> <br />
-<a href="https://twitter.com/mimzivvimzi" target="_blank">Twitter</a>
+### Get in touch
+
+* <a href="https://www.linkedin.com/in/michelledeniselau/" target="_blank">LinkedIn</a> <br />
+* <a href="https://www.michelledeniselau.com/" target="_blank">Personal Site</a> <br />
+* <a href="https://twitter.com/mimzivvimzi" target="_blank">Twitter</a>
 
 <!--
 **mimzivvimzi/mimzivvimzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
