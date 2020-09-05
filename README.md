@@ -8,11 +8,11 @@ I'm an iOS developer based in Tokyo. In my previous life, I worked as a Business
 
 * <a href="https://www.linkedin.com/in/michelledeniselau/" target="_blank">LinkedIn</a> <br />
 * <a href="https://www.michelledeniselau.com/" target="_blank">Personal Site</a> <br />
-* <a href="https://twitter.com/mimzivvimzi" target="_blank">Twitter</a>
+
 
 <!--
 **mimzivvimzi/mimzivvimzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+* <a href="https://twitter.com/mimzivvimzi" target="_blank">Twitter</a>
 
 
 Here are some ideas to get you started:
