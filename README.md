@@ -2,7 +2,7 @@
 
 ## Hi there! 👋🏼
 
-I'm an iOS developer based in Tokyo. In my previous life, I worked as a Business Analyst in my home state of Hawaii. I'm passionate about expanding my knowledge on app development. Pursuing an iOS developer position in Tokyo.
+I'm an iOS developer based in Tokyo. In my previous life, I worked as a Business Analyst in my home state of Hawaii. I'm passionate about expanding my knowledge on app development. 
 
 ### Get in touch
 
