@@ -1,4 +1,4 @@
-[![SwiftUI and Accessibility](https://imgur.com/RgpxNSR)](https://youtu.be/rX5okxrQZG8)
+[![SwiftUI and Accessibility](https://i.imgur.com/RgpxNSR.png)](https://youtu.be/rX5okxrQZG8)
 
 ## Hi there! 👋🏼
 
