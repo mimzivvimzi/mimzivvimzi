@@ -1,8 +1,8 @@
-<img src="https://github.com/mimzivvimzi/mimzivvimzi/blob/master/readme_image2.png">
+[![SwiftUI and Accessibility](https://imgur.com/RgpxNSR)](https://youtu.be/rX5okxrQZG8)
 
 ## Hi there! 👋🏼
 
-I'm an iOS developer based in Tokyo. In my previous life, I worked as a Business Analyst in my home state of Hawaii. I'm passionate about expanding my knowledge on app development. 
+I'm a Software Developer based in Tokyo. In my previous life, I worked as a Business Analyst in my home state of Hawaii. I'm passionate about expanding my knowledge on app development. 
 
 ### Get in touch
 
