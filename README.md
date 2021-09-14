@@ -7,14 +7,14 @@ I'm a Software Developer based in Tokyo. In my previous life, I worked as a Busi
 * <a href="https://www.linkedin.com/in/michelledeniselau/" target="_blank">LinkedIn</a> <br />
 * <a href="https://www.michelledeniselau.com/" target="_blank">Personal Site</a> <br />
 
+### Articles ✍🏼
+* <a href="https://mimzivvimzi.medium.com/a-quick-rundown-of-how-to-use-guard-and-guard-let-f139db893d99" target="_blank">Medium</a> <br />
+
 🗣 A recent talk that I gave regarding SwiftUI and Accessibility:
 
-[![SwiftUI and Accessibility](https://i.imgur.com/RgpxNSR.png)](https://youtu.be/rX5okxrQZG8)
-
+<a href="https://youtu.be/rX5okxrQZG8" target="_blank">![SwiftUI and Accessibility](https://i.imgur.com/RgpxNSR.png)</a> <br />
 <!--
 **mimzivvimzi/mimzivvimzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-* <a href="https://twitter.com/mimzivvimzi" target="_blank">Twitter</a>
-
 
 Here are some ideas to get you started:
 
