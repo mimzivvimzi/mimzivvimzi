@@ -4,15 +4,15 @@ I'm a Software Developer based in Tokyo. Prior to living in Japan, I worked as a
 
 ### Get in touch ✨
 
-* <a href="https://www.linkedin.com/in/michelledeniselau/" target="_blank">LinkedIn</a>
-* <a href="https://www.michelledeniselau.com/" target="_blank">Personal Site</a> 
+* <a href="https://www.linkedin.com/in/michelledeniselau/">LinkedIn</a>
+* <a href="https://www.michelledeniselau.com/">Personal Site</a> 
 
 ### Articles ✍🏼
-* <a href="https://mimzivvimzi.medium.com/a-quick-rundown-of-how-to-use-guard-and-guard-let-f139db893d99" target="_blank">Medium</a> 
+* <a href="https://mimzivvimzi.medium.com/a-quick-rundown-of-how-to-use-guard-and-guard-let-f139db893d99">Medium</a> 
 
 🗣 A recent talk that I gave regarding SwiftUI and Accessibility:
 
-<a href="https://youtu.be/rX5okxrQZG8" target="_blank">![SwiftUI and Accessibility](https://i.imgur.com/RgpxNSR.png)</a>
+<a href="https://youtu.be/rX5okxrQZG8">![SwiftUI and Accessibility](https://i.imgur.com/RgpxNSR.png)</a>
 <!--
 **mimzivvimzi/mimzivvimzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
