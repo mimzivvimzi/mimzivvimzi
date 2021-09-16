@@ -2,7 +2,7 @@
 
 I'm a Software Developer based in Tokyo. Prior to living in Japan, I worked as a Business Analyst in my home state of Hawaii. I'm passionate about expanding my knowledge on web and app development. 
 
-### Get in touch ✨
+### Get in touch 📨
 
 * <a href="https://www.linkedin.com/in/michelledeniselau/">LinkedIn</a>
 * <a href="https://www.michelledeniselau.com/">Personal Site</a> 
@@ -10,7 +10,7 @@ I'm a Software Developer based in Tokyo. Prior to living in Japan, I worked as a
 ### Articles ✍🏼
 * <a href="https://mimzivvimzi.medium.com/a-quick-rundown-of-how-to-use-guard-and-guard-let-f139db893d99">Medium</a> 
 
-🗣 A recent talk that I gave regarding SwiftUI and Accessibility:
+📱 A recent talk that I gave regarding SwiftUI and Accessibility:
 
 <a href="https://youtu.be/rX5okxrQZG8">![SwiftUI and Accessibility](https://i.imgur.com/RgpxNSR.png)</a>
 <!--
