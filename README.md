@@ -9,7 +9,7 @@ I'm a Software Engineer based in Tokyo. Prior to living in Japan, I worked as a 
 
 
 ### Articles ✍🏼
-* <a href="https://mimzivvimzi.medium.com/a-quick-rundown-of-how-to-use-guard-and-guard-let-f139db893d99">Medium</a> 
+* <a href="https://mimzivvimzi.medium.com/">Medium</a> 
 
 📱 A recent talk that I gave regarding SwiftUI and Accessibility:
 
