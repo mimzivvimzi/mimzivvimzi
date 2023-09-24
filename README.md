@@ -6,6 +6,4 @@ I'm a Software Engineer based in Tokyo. Before living in Japan, I worked as a Bu
 
 <a href="https://www.linkedin.com/in/michelledeniselau/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.michelledeniselau.com/gamebook">📱 iOS app</a>
-
 <a href="https://mimzivvimzi.medium.com/">✍🏼 Medium articles</a> 
